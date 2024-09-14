@@ -91,3 +91,8 @@ The server will start on http://localhost:5000.
   }
   
 - **DELETE /customer/auth/review/:isbn**: Delete a review for a book (requires login).
+
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details. <br>
+This project is made as a part of IBM Course.

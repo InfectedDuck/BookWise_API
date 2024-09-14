@@ -31,8 +31,8 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bookshop-express.git
-cd bookshop-express
+git clone https://github.com/InfectedDuck/BookWise_API.git
+cd BookWise_API
 ```
 
 ### Install Dependencies
